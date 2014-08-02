@@ -6,7 +6,7 @@ module z_endstop_shim (
     width = 20,
     wall_thickness = 3,
     wall_height = 5,
-    wood_thickness = 4.7
+    wood_thickness = 5.3
 )
 {
     total_height = wall_height + shim_size;
