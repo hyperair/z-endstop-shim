@@ -2,7 +2,7 @@ include <MCAD/units/metric.scad>
 use <MCAD/shapes/polyhole.scad>
 
 module z_endstop_shim (
-    shim_size = 1.6,
+    shim_size = 4.8,
     width = 20,
     wall_thickness = 3,
     wall_height = 5,
